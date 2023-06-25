@@ -1,9 +1,8 @@
-### Hello Wolrd
-I'm an undergrad student from University of Information technology, Ho Chi Minh city, Vietnam.
-Year: 1
+#### Hello Wolrd
+I'm a 1st year undergrad student from University of Information technology, Ho Chi Minh city, Vietnam
 ![](https://github.com/ducmint864/Gifs/blob/main/xUPGcmqgta8tf7Xak8.gif)
 
- ###Blockchain 🟪⛓️🟦⛓️🟦⛓️🟦⛓️🟦
+ #### Blockchain 🟪⛓️🟦⛓️🟦⛓️🟦⛓️🟦
 I'm faithful that 'Blockchain' tech will be significant in the near future, based on the fact that as it has so much potential to transform the underlying insfrastructure of the Internet, along with the capabilities to collab with or integrated into other techs like AI ... Nevertheless, 'Blockchain' tech is still somewhat immature, just like the Internet in the early 90s. Good sign is that more builders are starting to realize its hidden power and helping it develop rapidly. Blockchain opens up a vision into the future filled with possibilities, why not take this opportunity to build the future together and become a part of history. For more details, read 'blockchain revolution' by Don Tapscott.
 ```C++
 #include <vector>
@@ -58,9 +57,8 @@ class Blockchain
         ~Blockchain();
 }
 ```
-### What do you want the future to look like?
+#### What do you want the future to look like?
 
-```python
 ### About me
 - 🔭 I’m enthusiastic in: Linux, Cloud, big data, web development(including Web3), defi, smart contract development
 - 🌱 I’m currently learning blockchain and smart contract development
@@ -68,5 +66,4 @@ class Blockchain
 - 🤔 I’m looking for help with ...
 - ⚡ Knowledge: C/C++, Javascript, Solidity, Python, Linux
 🌀Godspeed :D
-![]()
-```
+![](https://github.com/ducmint864/Gifs/blob/main/cSdSijzwrsliuI1hnC.gif)
