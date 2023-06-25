@@ -14,8 +14,6 @@ I'm faithful that 'Blockchain' tech will be significant in the near future, base
 - 🤔 I’m looking for help with ...
 - ⚡ Knowledge: C/C++, Javascript, Solidity, Python, Linux
 
-🌀#Godspeed :b
+### 🌀Godspeed :b
 <!--
 **ducmint864/ducmint864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
