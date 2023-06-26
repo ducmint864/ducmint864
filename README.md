@@ -1,4 +1,4 @@
-```yaml
+```javascript
   ___ ___   ___________ .____      .____      ________            __      __  ________    __________  .____      ________   
  /   |   \  \_   _____/ |    |     |    |     \_____  \          /  \    /  \ \_____  \   \______   \ |    |     \______ \  
 /    ~    \  |    __)_  |    |     |    |      /   |   \         \   \/\/   /  /   |   \   |       _/ |    |      |    |  \ 
@@ -15,7 +15,7 @@
   <img src="https://github.com/ducmint864/Gifs/blob/main/pVGsAWjzvXcZW4ZBTE.gif" alt="Your GIF" width="100%">
 </p>
 
-``` python
+```javascript
  .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .-----------------.
 | .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |
 | |   ______     | || |   _____      | || |     ____     | || |     ______   | || |  ___  ____   | || |     ______   | || |  ____  ____  | || |      __      | || |     _____    | || | ____  _____  | |
@@ -32,6 +32,27 @@ its underlying infrastructure. The coolest part is that it can seamlessly collab
 the Internet was back in the '90s. But here's the awesome part: more and more innovators are starting to grasp its hidden power and are working tirelessly to accelerate its development. Blockchain offers us a glimpse into an extraordinary future,
 and it's an opportunity for us to come together and be a part of industry-wise transformation. If you want to learn more, check out "Blockchain Revolution" by Don Tapscott. It's an eye-opening read 👀!
 ```
+<div style="position: relative; display: inline-block;">
+  <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 1", width="230" height="230">
+  <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 2", width="230" height="230">
+  <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 2", width="230" height="230">
+  <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 2", width="230" height="230">
+</div>
+
+<div style="position: relative; display: inline-block;">
+  <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 1", width="230" height="230">
+  <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 2", width="230" height="230">
+  <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 2", width="230" height="230">
+</div>
+
+<div style="position: relative; display: inline-block;">
+  <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 1", width="230" height="230">
+  <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 2", width="230" height="230">
+</div>
+
+<div style="position: relative; display: inline-block;">
+  <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 1", width="230" height="230">
+</div>
 
 ```haskell
 /* Blockchain.hpp:
@@ -448,7 +469,11 @@ void Marketplace::showAllStalls()
 - 👯 I’m looking for passionate people to learn from and collab with
 - 🤔 I’m looking for help with ...
 - ⚡ Knowledge: C/C++, Javascript, Solidity, Python, Linux
-```python
+<p align="center">
+  <img src="https://github.com/ducmint864/Gifs/blob/main/cSdSijzwrsliuI1hnC.gif" alt="Your GIF" width="100%">
+</p>
+
+```haskell
   ________  ________    ________      _________ __________  ___________ ___________ ________            
  /  _____/  \_____  \   \______ \    /   _____/ \______   \ \_   _____/ \_   _____/ \______ \    /\  /\ 
 /   \  ___   /   |   \   |    |  \   \_____  \   |     ___/  |    __)_   |    __)_   |    |  \   \/  \/ 
@@ -456,10 +481,6 @@ void Marketplace::showAllStalls()
  \______  / \_______  / /_______  / /_______  /  |____|     /_______  / /_______  / /_______  /  \/  \/ 
         \/          \/          \/          \/                      \/          \/          \/          
 ```
-<p align="center">
-  <img src="https://github.com/ducmint864/Gifs/blob/main/cSdSijzwrsliuI1hnC.gif" alt="Your GIF" width="100%">
-</p>
-
 <p align="center">
   <img src="https://github.com/ducmint864/Gifs/blob/main/3o6ZtcYOStjD2SkMuY.gif" alt="Your GIF" width="100%">
 </p>
