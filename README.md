@@ -32,12 +32,6 @@ its underlying infrastructure. The coolest part is that it can seamlessly collab
 the Internet was back in the '90s. But here's the awesome part: more and more innovators are starting to grasp its hidden power and are working tirelessly to accelerate its development. Blockchain offers us a glimpse into an extraordinary future,
 and it's an opportunity for us to come together and be a part of industry-wise transformation. If you want to learn more, check out "Blockchain Revolution" by Don Tapscott. It's an eye-opening read 👀!
 ```
-<div style="position: relative; display: inline-block;">
-  <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 1", width="230" height="230">
-  <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 2", width="230" height="230">
-  <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 2", width="230" height="230">
-  <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 2", width="230" height="230">
-</div>
 
 <div style="position: relative; display: inline-block;">
   <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 1", width="230" height="230">
