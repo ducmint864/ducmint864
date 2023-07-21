@@ -1,3 +1,4 @@
+### &nbsp;Introduction
 ```javascript
   ___ ___   ___________ .____      .____      ________            __      __  ________    __________  .____      ________   
  /   |   \  \_   _____/ |    |     |    |     \_____  \          /  \    /  \ \_____  \   \______   \ |    |     \______ \  
@@ -5,10 +6,9 @@
 \    Y    /  |        \ |    |___  |    |___  /    |    \         \        /  /    |    \  |    |   \ |    |___   |    `   \
  \___|_  /  /_______  / |_______ \ |_______ \ \_______  /          \__/\  /   \_______  /  |____|_  / |_______ \ /_______  /
        \/           \/          \/         \/         \/                \/            \/          \/          \/         \/ 
+(＾Ｕ＾)ノ~ I'm Minh, a 1st year student at University of Information Technology, Ho Chi Minh City, Vietnam
 ```
 
-### 💬 &nbsp;Introduction
-(＾Ｕ＾)ノ~ I'm Minh, a 1st year student at University of Information Technology, Ho Chi Minh City, Vietnam
 <p align="center">
   <img src="https://github.com/ducmint864/Gifs/blob/main/NKEt9elQ5cR68.gif" alt="Your GIF" width="100%">
 </p>
