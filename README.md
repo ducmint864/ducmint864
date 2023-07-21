@@ -1,4 +1,3 @@
-### &nbsp;Introduction
 ```javascript
   ___ ___   ___________ .____      .____      ________            __      __  ________    __________  .____      ________   
  /   |   \  \_   _____/ |    |     |    |     \_____  \          /  \    /  \ \_____  \   \______   \ |    |     \______ \  
@@ -319,7 +318,10 @@ void Node::transferTo(Blockchain& ar_blockchain, std::vector<std::shared_ptr<Nod
 - 🌱 I’m currently learning blockchain and smart contract development
 - 👯 I’m looking for passionate people to learn from and collab with
 - 🤔 I’m looking for help with ...
-- ⚡ Knowledge: C/C++, Javascript, Solidity, Python, Linux
+
+<br />
+<br />
+
 <p align="center">
   <img src="https://github.com/ducmint864/Gifs/blob/main/cSdSijzwrsliuI1hnC.gif" alt="Your GIF" width="100%">
 </p>
@@ -332,18 +334,3 @@ void Node::transferTo(Blockchain& ar_blockchain, std::vector<std::shared_ptr<Nod
  \______  / \_______  / /_______  / /_______  /  |____|     /_______  / /_______  / /_______  /  \/  \/ 
         \/          \/          \/          \/                      \/          \/          \/          
 ```
-<p align="center">
-  <img src="https://github.com/ducmint864/Gifs/blob/main/3o6ZtcYOStjD2SkMuY.gif" alt="Your GIF" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/ducmint864/Gifs/blob/main/wHfBl3XNAcxxj0JOk8.gif" alt="Your GIF" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/ducmint864/Gifs/blob/main/w61NUc9wVBAZi5PUOY.gif" alt="Your GIF" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/ducmint864/Gifs/blob/main/3oKIPs1EVbbNZYq7EA.gif" alt="Your GIF" width="100%">
-</p>
