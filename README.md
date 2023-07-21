@@ -16,6 +16,15 @@
   <img src="https://github.com/ducmint864/Gifs/blob/main/pVGsAWjzvXcZW4ZBTE.gif" alt="Your GIF" width="100%">
 </p>
 
+## About me
+- 🔭 I’m enthusiastic in: Linux, Cloud, big data, web development(including Web3), defi, smart contract development
+- 🌱 I’m currently learning blockchain and smart contract development
+- 👯 I’m looking for passionate people to learn from and collab with
+- 🤔 I’m looking for help with ...
+- ⚡ Knowledge: C/C++, Javascript, Solidity, Python, Linux
+
+
+## My Enthusiasm
 ```javascript
  .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .-----------------.
 | .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |
@@ -309,15 +318,8 @@ void Node::transferTo(Blockchain& ar_blockchain, std::vector<std::shared_ptr<Nod
   <img src="https://github.com/ducmint864/Gifs/blob/main/l0MYLJhlwdLh9uPeg.gif" alt="Your GIF" width="100%">
 </p>
 
-### How would you imagine the future?
+## How would you imagine the future?
 
-
-
-### About me
-- 🔭 I’m enthusiastic in: Linux, Cloud, big data, web development(including Web3), defi, smart contract development
-- 🌱 I’m currently learning blockchain and smart contract development
-- 👯 I’m looking for passionate people to learn from and collab with
-- 🤔 I’m looking for help with ...
 
 <br />
 <br />
