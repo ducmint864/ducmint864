@@ -21,8 +21,21 @@
 - 🌱 I’m currently learning blockchain and smart contract development
 - 👯 I’m looking for passionate people to learn from and collab with
 - 🤔 I’m looking for help with ...
-- ⚡ Knowledge: C/C++, Javascript, Solidity, Python, Linux
 
+Languages & Tools &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
+  ![SOLIDITY](https://img.shields.io/badge/-SOLIDITY-333333?style=flat&logo=SOLIDITY)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🖥 &nbsp;
+![Linux](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&amp;logo=ubuntu)
+  ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&amp;logo=windows&amp;logoColor=blue)
 
 ## My Enthusiasm
 ```javascript
@@ -149,161 +162,6 @@ std::ofstream          logS("./.log");
 std::thread g_subsystem(update, &g_TRANSACTION_FEE, &g_VALUE, &g_BUY_VALUE, &g_SELL_VALUE, &g_FINISHED);
 
 ...
-
-void Node::closeMyStall(Marketplace& ar_marketplace)
-{
-
-    // if node doesn't even have a stall
-    if (m_stall == nullptr)
-    {
-
-        std::cout << "\nYou don't own a stall, maybe you used to!" << std::endl;
-        return;
-
-    }
-
-    // using lambda function with std::find_if() to find position of this node's stall in the market
-    std::vector<std::shared_ptr<Stall>>::iterator iter = std::find_if ( ar_marketplace.m_market.begin(), ar_marketplace.m_market.end(),
-
-    [this](const std::shared_ptr<Stall> s) { return (s->mp_seller->m_name == m_name); }
-
-    );
-
-    // delete stall's data from memory
-    auto index = (iter - ar_marketplace.m_market.begin()); // get index of found stall in market
-    ar_marketplace.m_market[index].reset(); // delete from memory the stall which is pointed to by a shared_pointer
-    ar_marketplace.m_market[index] = nullptr;
-
-    // delete stall from market
-    ar_marketplace.m_market.erase(iter);
-
-    // finally
-    std::cout << "\n--> Stall closed successfully!" << std::endl;
-
-}
-
-...
-
-void Node::transferTo(Blockchain& ar_blockchain, std::vector<std::shared_ptr<Node>>& ar_nodesList, std::string& ar_receiver, const uint32_t& ar_timestamp)
-{
-    
-    // initial checking step
-    if (ar_receiver == m_name)
-    {
-        
-        std::cout << "\n->> Can't transfer money to yourserlf you fishing prick!" << std::endl;
-        return;
-
-    }
-
-    // transfer money
-    float amount;
-    bool found = 0;
-
-    for (uint64_t i = 0; i < gc_NODE_COUNT; i++)
-    {
-
-        if (ar_nodesList[i]->m_name == ar_receiver)
-            found = 1;
-            
-
-        if (i == (gc_NODE_COUNT - 1) && found == 0)
-        {
-
-            std::cout << "\n->> Node doesn't exit" << std::endl;
-            return;
-
-        }
-
-        if (found)
-        {
-            
-            std::cout << "\nEnter the amount of bitcoins to transfer :\n>>> ";
-            std::cin >> amount;
-
-            // if not enough bitcoins to transfer
-            if (amount > m_balance)
-            {
-
-                char option;
-                std::cout << "\n->> Your total account balance isn't sufficient for this transfer : " << m_balance << " / " << amount << std::endl;
-                std::cout << "Do you want to apply an amount of debt to your account balance? | (Y)es, (N)o\n>>> ";
-                std::cin >> option; std::cin.ignore();
-                
-                if (option == 'y' || option == 'Y')
-                {
-
-                    std::cout << "\nAre you sure ? | (Y)es, (N)o\n>>> ";
-                    std::cin >> option; std::cin.ignore();
-
-                    if (option == 'y' || option == 'Y')
-                    {
-
-                        std::cout << "\n*Sure!" << std::endl;
-                        ar_nodesList[i]->m_balance += amount;
-                        m_balance -= amount;
-                        break;
-
-                    }
-
-                    else
-                    {
-
-                        std::cout << "\n*Okay! Abort transaction!" << std::endl;
-                        break;
-
-                    }
-
-                }
-
-                else
-                {
-
-                    std::cout << "\n*Okay! Abort transaction!" << std::endl;
-                    break;
-
-                }
-            }
-            
-
-            // if enough coins for transferring
-            else
-            {
-
-                ar_nodesList[i]->m_balance += amount;
-                m_balance -= amount;
-                break;
-
-            }
-            
-
-        }
-
-
-    }
-
-    // write to public ledger
-    std::string tmp = m_name + ' ' + ar_receiver + ' ' + std::to_string(amount) + ' ' + std::to_string(ar_timestamp) + '\n';
-
-    if ( (ar_blockchain.m_tmpTransactionsData.length() + tmp.length()) > gc_MAX_TRANSACTION_DATA_SIZE_IN_BYTES)
-    {
-
-        ar_blockchain.openCompetition(tmp, ar_nodesList);
-
-    }
-
-     
-    else
-    {
-        ar_blockchain.m_tmpTransactionsData += tmp;
-    }
-
-}
-
-...
-
-*Caution: this piece of code isn't functional, it's just for demonstration purpose :)
-```
 
 <p align="center">
   <img src="https://github.com/ducmint864/Gifs/blob/main/HmsT9Zzmvu4EDQS75P.gif" alt="Your GIF" width="100%">
