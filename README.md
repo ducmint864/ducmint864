@@ -17,15 +17,15 @@
 </p>
 
 ## About me
-- 🔭 I’m enthusiastic in: Linux, Cloud, big data, web development(including Web3), defi, smart contract development
-- 🌱 I’m currently learning blockchain and smart contract development
+- 🔭 I’m enthusiastic in: Blockchain(Web3, DeFi, Decentralized Identity...), Big Data, Linux
+- 🌱 I’m currently learning Blockchain and Smart Contracts development
 - 👯 I’m looking for passionate people to learn from and collab with
 - 🤔 I’m looking for help with ...
 
 ### My 'Dependencies'
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,nodejs,ts,solidity,git,github,vscode,neovim,linux,sqlite,postgres,prisma)](https://skillicons.dev)
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=313ashihwo4yydy4pgwktasgc6vu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=313ashihwo4yydy4pgwktasgc6vu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313ashihwo4yydy4pgwktasgc6vu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=313ashihwo4yydy4pgwktasgc6vu&redirect=true)
 
 ## My Enthusiasm
 ```javascript
