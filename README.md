@@ -17,7 +17,7 @@
 
 ## About me
 ### (＾Ｕ＾)ノ~ I'm Minh Duc, 1st year student at University of Information Technology, Ho Chi Minh City, Vietnam.
-- 🔭 I’m interested in: Data Science, Blockchain, Information Systems in general.
+- 🔭 I’m interested in: Data Science, Blockchain, Information Systems.
 - 🧑🏻‍💻 Current occupation: Senior Breathing Engineer (19+ yrs. of exp., specialize in Oxygen, Nitrogen, Carbon dioxide)
 - 👨🏻‍🚀 Dream occupation: Data Engineer, AI/ML modelling
 - 🌱 I’m learning how to communicate better, and improve my time management skills. 
