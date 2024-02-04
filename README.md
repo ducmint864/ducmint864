@@ -22,8 +22,8 @@
 - 👨🏻‍🚀 Dream occupation: Data Engineer, AI/ML modelling
 - 🌱 I’m learning how to communicate better, and improve my time management skills. 
 
-### My 'Dependencies'
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,nodejs,ts,solidity,git,github,vscode,neovim,linux,sqlite,postgres,prisma,python)](https://skillicons.dev)
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=golang,js,ts,cpp,python,solidity-,vim,vscode,linux,postgres)](https://skillicons.dev)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313ashihwo4yydy4pgwktasgc6vu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313ashihwo4yydy4pgwktasgc6vu&redirect=true)
 
