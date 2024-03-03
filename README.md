@@ -23,7 +23,7 @@
 - 🤔 I’m looking for help with ...
 
 ### 💻 My frequently-used tools and technologies 
-<table align="center">
+<table align="center" style="display:block">
   <tr>
     <td align="center" width="96">
         <img src="https://github.com/warmice71/warmice71/blob/main/assets/go-original.svg" alt="icon" width="60" height="60"/>
@@ -129,7 +129,6 @@
  </tr>
 </table>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313ashihwo4yydy4pgwktasgc6vu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313ashihwo4yydy4pgwktasgc6vu&redirect=true)
 
 ## My Enthusiasm
 ```javascript
@@ -144,12 +143,11 @@
 | |              | || |              | || |              | || |              | || |              | || |              | || |              | || |              | || |              | || |              | |
 | '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------' 
+```
 I'm incredibly excited about the future of blockchain technology and its profound impact on the tech industry. I firmly believe that blockchain has the potential to revolutionize the very fabric of the Internet, completely transforming
 its underlying infrastructure. The coolest part is that it can seamlessly collaborate and integrate with other cutting-edge technologies like AI, opening up a world of possibilities. Sure, blockchain is still in its early stages, just like
 the Internet was back in the '90s. But here's the awesome part: more and more innovators are starting to grasp its hidden power and are working tirelessly to accelerate its development. Blockchain offers us a glimpse into an extraordinary future,
-and it's an opportunity for us to come together and be a part of industry-wise transformation. If you want to learn more, check out "Blockchain Revolution" by Don Tapscott. It's an eye-opening read 👀!
-```
-
+and it's an opportunity for us to come together and be a part of industry-wise transformation. If you want to learn more, check out "Blockchain Revolution" by Don Tapscott. It's an eye-opening read 👀!</br>
 <div style="position: relative; display: inline-block;">
   <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 1", width="230" height="230">
   <img style="position: absolute; top: 0; left: 0;" src="https://github.com/ducmint864/Gifs/blob/main/coin.gif" alt="Image 2", width="230" height="230">
@@ -255,37 +253,4 @@ std::ofstream          logS("./.log");
 
 std::thread g_subsystem(update, &g_TRANSACTION_FEE, &g_VALUE, &g_BUY_VALUE, &g_SELL_VALUE, &g_FINISHED);
 
-```
-
-
-<p align="center">
-  <img src="https://github.com/ducmint864/Gifs/blob/main/HmsT9Zzmvu4EDQS75P.gif" alt="Your GIF" width="100%">
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/ducmint864/Gifs/blob/main/8COxPYplWmHKlZULOt.gif" alt="Your GIF" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/ducmint864/Gifs/blob/main/l0MYLJhlwdLh9uPeg.gif" alt="Your GIF" width="100%">
-</p>
-
-## How would you imagine the future?
-
-
-<br />
-<br />
-
-<p align="center">
-  <img src="https://github.com/ducmint864/Gifs/blob/main/cSdSijzwrsliuI1hnC.gif" alt="Your GIF" width="100%">
-</p>
-
-```haskell
-  ________  ________    ________      _________ __________  ___________ ___________ ________            
- /  _____/  \_____  \   \______ \    /   _____/ \______   \ \_   _____/ \_   _____/ \______ \    /\  /\ 
-/   \  ___   /   |   \   |    |  \   \_____  \   |     ___/  |    __)_   |    __)_   |    |  \   \/  \/ 
-\    \_\  \ /    |    \  |    `   \  /        \  |    |      |        \  |        \  |    `   \  /\  /\ 
- \______  / \_______  / /_______  / /_______  /  |____|     /_______  / /_______  / /_______  /  \/  \/ 
-        \/          \/          \/          \/                      \/          \/          \/          
 ```
