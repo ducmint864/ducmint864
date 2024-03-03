@@ -279,21 +279,41 @@ std::thread g_subsystem(update, &g_TRANSACTION_FEE, &g_VALUE, &g_BUY_VALUE, &g_S
 
 ### `'IN THE REALM OF TOMORROW WHERE UNCERTAINTY REIGNS SUPREME...'`
 <p align="center">
-  <img src="https://github.com/ducmint864/Gifs/blob/main/HmsT9Zzmvu4EDQS75P.gif" alt="Your GIF" width="100%">
-</p>
-<p align="center">
-  <img src="https://github.com/ducmint864/Gifs/blob/main/8COxPYplWmHKlZULOt.gif" alt="Your GIF" width="100%">
-</p>
-<p align="center">
-  <img src="https://github.com/ducmint864/Gifs/blob/main/l0MYLJhlwdLh9uPeg.gif" alt="Your GIF" width="100%">
-</p>
-<p align="center">
-  <img src="https://github.com/ducmint864/Gifs/blob/main/3o6ZtcYOStjD2SkMuY.gif" alt="Your GIF" width="100%">
+  <img src="https://github.com/ducmint864/Gifs/blob/main/HmsT9Zzmvu4EDQS75P.gif" alt="Story" width="100%">
 </p>
 <p align="center">
   <img src="https://github.com/ducmint864/Gifs/blob/main/cSdSijzwrsliuI1hnC.gif" alt="Your GIF" width="100%">
 </p>
 <p align="center">
-  <img src="<p align="center">
   <img src="https://github.com/ducmint864/Gifs/blob/main/1C8bHHJturSx2.gif" alt="Your GIF" width="100%">
+</p>
+<p align="center">
+   <img src="https://github.com/ducmint864/Gifs/blob/main/p1qUMHkKiRRgk.gif" alt="no wifi" width="100%">
+</p>
+<p align="center">
+   <img src="https://github.com/ducmint864/Gifs/blob/main/10SvixZff25gic.gif" alt="doom" width="100%">
+</p>
+<p align="center">
+   <img src="https://github.com/ducmint864/Gifs/blob/main/jmqnA8vqJNF4o8r3hc.gif" alt="doom" width="100%">
+</p>
+<p align="center">
+   <img src="https://github.com/ducmint864/Gifs/blob/main/3ohzdGD5cvQGJtJUVa.gif" alt="mistake" width="100%">
+</p>
+<p align="center">
+   <img src="https://github.com/ducmint864/Gifs/blob/main/xUPGcmqgta8tf7Xak8.gif" alt="prison" width="100%">
+</p>
+<p align="center">
+  <img src="https://github.com/ducmint864/Gifs/blob/main/3o6ZtcYOStjD2SkMuY.gif" alt="black-hole" width="100%">
+</p>
+<p align="center">
+  <img src="https://github.com/ducmint864/Gifs/blob/main/wHfBl3XNAcxxj0JOk8.gif" alt="attack of the machines" width="100%">
+</p>
+<p align="center">
+  <img src="https://github.com/ducmint864/Gifs/blob/main/3oKIPs1EVbbNZYq7EA.gif" alt="Your " width="100%">
+</p>
+<p align="center">
+  <img src="https://github.com/ducmint864/Gifs/blob/main/l0MYLJhlwdLh9uPeg.gif" alt="" width="100%">
+</p>
+<p align="center">
+  <img src="https://github.com/ducmint864/Gifs/blob/main/8COxPYplWmHKlZULOt.gif" alt="Your GIF" width="100%">
 </p>
