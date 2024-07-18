@@ -29,18 +29,15 @@ $$  /$$$$$$\ $$ |     $$  __$$\ $$  __$$\_$$  _|  \____$$\ $$  _____\_$$  _|    
 </p>
 
 ## About me
-👋 Hey there, thrilled to meet! I am Minh, a sophomore at the University of Information Technology, Ho Chi Minh City, Vietnam
+👋 Hi there! I'm Minh, a sophomore at the University of Information Technology, Ho Chi Minh City, Vietnam.
 
-🔭 My journey in tech is fueled by a deep passion for Blockchain, with particular interests in exploring the realms of Web3, DeFi (Decentralized Finance), and Decentralized Identity. Alongside Blockchain, I find myself drawn to the vast possibilities of Big Data and the intriguing world of AI (Artificial Intelligence).
+🔭 I'm passionate about Blockchain, especially Web3, DeFi, and Decentralized Identity. I'm also drawn to Big Data and AI.
 
-🌱 Currently, I'm fully immersed in the fascinating world of Blockchain and Smart Contracts development. It's an exhilarating journey filled with constant learning and discovery, and I'm excited to see where it takes me.
+🌱 Currently, I'm focused on Blockchain and Smart Contracts development, constantly learning and discovering.
 
-👯 I believe that the best way to grow is by surrounding oneself with like-minded individuals who share the same passion and drive. That's why I'm actively seeking out passionate people to connect with, learn from, and collaborate on exciting projects.
+👯 I love connecting with like-minded individuals to learn, collaborate, and grow together.
 
-🤔 While I'm diving deep into Blockchain development, I'm always open to new insights and perspectives. Whether it's mastering specific blockchain concepts, delving deeper into AI technologies, or exploring innovative solutions, I'm eager to expand my knowledge and skills.
-
-Let's connect, learn, and innovate together as we navigate the ever-evolving landscape of technology!
-
+🤔 Open to new insights in Blockchain, AI, and innovative solutions. Let's connect and innovate together in the tech world!
 
 ### 💻 My frequently-used tools and technologies 
 <table align="center">
